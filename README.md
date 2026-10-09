@@ -83,7 +83,7 @@ Is there a relationship between follower count and average engagement per tweet 
 
 - Original tweets were the dominant communication format. For 96.15% of members, original tweets represented the most frequently used tweet type, while retweets and replies were dominant for only a small minority.
 
-<img width="303" height="83" alt="image" src="https://github.com/user-attachments/assets/d09044e4-28ad-480b-a299-7b56c38a0d0c" />
+<img width="369" height="147" alt="Ekran görüntüsü 2026-10-09 182344" src="https://github.com/user-attachments/assets/80789b7d-1e0b-4dde-b215-6ada0adfb4ab" />
 
 - English overwhelmingly dominated congressional Twitter activity, accounting for 98.74% of all non-retweet tweets.
 
@@ -91,11 +91,12 @@ Is there a relationship between follower count and average engagement per tweet 
 
 - Hashtag usage showed only a limited association with engagement. While hashtag tweets ranked higher for 71.43% of members across the full study period, this share declined to 59.15% after 2016, suggesting that the engagement advantage of hashtags weakened over time.
   
-2016 and Later   
-<img width="362" height="60" alt="Ekran görüntüsü 2026-10-09 180606" src="https://github.com/user-attachments/assets/37ad6946-e7ab-4d79-8041-efab84485c1a" />
-
 Full Study Period   
-<img width="363" height="64" alt="Ekran görüntüsü 2026-10-09 180310" src="https://github.com/user-attachments/assets/9a426fd4-682a-4501-b306-01cf2a870bfd" />
+<img width="412" height="141" alt="Ekran görüntüsü 2026-10-09 183144" src="https://github.com/user-attachments/assets/1c5226ca-7589-4b32-ad18-42f7d75e9719" />
+
+2016 and Later   
+<img width="417" height="143" alt="Ekran görüntüsü 2026-10-09 183223" src="https://github.com/user-attachments/assets/c02b2162-c0d6-48cf-a247-edaa43de32fe" />
+
 
 - The most consistently used hashtags were #tcot, #obamacare, and #gop, suggesting continued discussion around recurring political topics throughout the study period.
 

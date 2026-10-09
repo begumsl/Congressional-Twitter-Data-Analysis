@@ -101,6 +101,20 @@ Full Study Period
 - A moderate positive relationship was observed between follower count and average engagement per tweet (Spearman's ρ ≈ 0.58), indicating that accounts with larger audiences tended to receive more engagement on average.
 <img width="400" height="140" alt="SSMS_6TOt4Shjhq" src="https://github.com/user-attachments/assets/dfbb8926-1b37-4615-b6fd-4121b7bc46e2" />
 
+## Limitations 
+- The dataset covers the period from April 27, 2007, to June 6, 2017. Findings may not reflect more recent congressional Twitter (X) behavior.
+
+- Because the dataset ends on June 6, 2017, comparisons involving 2017 should be interpreted with caution, as the final year contains only partial data.
+
+- Engagement was measured using favorite and retweet counts available in the dataset. Other forms of interaction, such as impressions, profile visits, or link clicks, were not available.
+
+- Follower count values appear as a single snapshot rather than historical observations. Therefore, follower counts may not reflect the audience size at the time individual tweets were posted.
+
+- Engagement levels may have been influenced by external factors, such as elections, legislative activity, political debates, or major news events, which were not explicitly controlled for in the analysis.
+
+- Correlation analyses identify associations between variables but do not establish causal relationships.
+
+- The study focuses exclusively on members of the U.S. Congress and should not be generalized to broader Twitter (X) user populations.
 
 
 

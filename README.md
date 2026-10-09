@@ -78,12 +78,11 @@ Is there a relationship between follower count and average engagement per tweet 
 
 - Twitter activity showed a clear upward trend over the study period, reaching its highest levels in 2016 and 2017. The most active month was March 2017, when 531 congressional members generated 33,086 original tweets, corresponding to an average of 62.31 tweets per member.
 
-<img width="450" height="500" alt="image" src="https://github.com/user-attachments/assets/e8c40758-6f9f-40b1-8753-961581999de5" />  
-
+<img width="410" height="401" alt="SSMS_GB2fwN7AsY" src="https://github.com/user-attachments/assets/1d5dfcba-acf4-44e5-b688-dae831d71246" />
 
 - Original tweets were the dominant communication format. For 96.15% of members, original tweets represented the most frequently used tweet type, while retweets and replies were dominant for only a small minority.
 
-<img width="369" height="147" alt="Ekran görüntüsü 2026-10-09 182344" src="https://github.com/user-attachments/assets/80789b7d-1e0b-4dde-b215-6ada0adfb4ab" />
+<img width="400" height="140" alt="SSMS_u5R0hXi9a8" src="https://github.com/user-attachments/assets/0ca09c31-bcd2-4cc4-8cc5-6e0e45e33427" />
 
 - English overwhelmingly dominated congressional Twitter activity, accounting for 98.74% of all non-retweet tweets.
 
@@ -92,17 +91,15 @@ Is there a relationship between follower count and average engagement per tweet 
 - Hashtag usage showed only a limited association with engagement. While hashtag tweets ranked higher for 71.43% of members across the full study period, this share declined to 59.15% after 2016, suggesting that the engagement advantage of hashtags weakened over time.
   
 Full Study Period   
-<img width="412" height="141" alt="Ekran görüntüsü 2026-10-09 183144" src="https://github.com/user-attachments/assets/1c5226ca-7589-4b32-ad18-42f7d75e9719" />
+<img width="400" height="140" alt="SSMS_1BGFfhS6Q7" src="https://github.com/user-attachments/assets/8e8aef07-7bb3-4925-a96a-9212e0af924a" />
 
 2016 and Later   
-<img width="417" height="143" alt="Ekran görüntüsü 2026-10-09 183223" src="https://github.com/user-attachments/assets/c02b2162-c0d6-48cf-a247-edaa43de32fe" />
-
+<img width="400" height="140" alt="SSMS_cbxDIAo4SK" src="https://github.com/user-attachments/assets/9ff97bfd-57fa-401b-b8fc-3f1be910906b" />
 
 - The most consistently used hashtags were #tcot, #obamacare, and #gop, suggesting continued discussion around recurring political topics throughout the study period.
 
 - A moderate positive relationship was observed between follower count and average engagement per tweet (Spearman's ρ ≈ 0.58), indicating that accounts with larger audiences tended to receive more engagement on average.
-<img width="331" height="138" alt="Ekran görüntüsü 2026-10-09 181426" src="https://github.com/user-attachments/assets/8cb14c97-fced-4eb0-ba48-05759d411988" />
-
+<img width="400" height="140" alt="SSMS_6TOt4Shjhq" src="https://github.com/user-attachments/assets/dfbb8926-1b37-4615-b6fd-4121b7bc46e2" />
 
 
 
